@@ -1,0 +1,6 @@
+micronaut:
+  application:
+    name: demo2
+  server:
+    port: 8083
+

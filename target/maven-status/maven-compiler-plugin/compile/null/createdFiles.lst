@@ -1,0 +1,6 @@
+com/example/TimeController.class
+META-INF/services/io.micronaut.inject.BeanDefinitionReference
+com/example/$TimeController$Definition$Reference.class
+com/example/Application.class
+com/example/$TimeController$Definition.class
+com/example/$TimeController$Definition$Exec.class
